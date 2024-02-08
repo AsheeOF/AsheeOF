@@ -24,6 +24,6 @@ Here are some of the technologies I work with:
 You can find me on the following platforms:
 
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/AsheeOF)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-soriano-guzm%C3%A1n/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/alejandro-soriano-guzm%C3%A1n/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Ashee_OF)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square)](https://example.com)
